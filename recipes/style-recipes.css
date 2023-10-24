@@ -1,0 +1,63 @@
+body{
+    background-color: azure;
+
+}
+
+h1{
+    color: gold;
+    text-align: center;
+    font-size: 52px;
+}
+
+div{
+   display: grid;
+   place-items: center;
+}
+
+.Description{
+    text-align: center;
+    color: violet;
+    font-size: 34px;
+}
+
+.Description-para{
+    font-size: 25px;
+    color: black;
+    margin: 5%;
+    text-align: justify;
+}
+
+.Ingredients{
+    text-align: center;
+    color: violet;
+    font-size: 34px;
+}
+
+.Ingredients-list{
+    font-size: 25px;
+    color: black;
+    margin: 5%;
+    text-align: justify;
+}
+
+.Steps{
+    text-align: center;
+    color: violet;
+    font-size: 34px;
+}
+
+.Steps-list{
+    font-size: 25px;
+    color: black;
+    margin: 5%;
+    text-align: justify;
+}
+
+hr{
+    width: 50%;
+    height: 10px;
+    border-width: 10;
+    color: gray;
+    background-color: gold;
+}
+

@@ -1,0 +1,27 @@
+body{
+    background-color: azure;
+
+}
+
+h1{
+    text-align: center;
+    font-size: 36px;
+    color: darkorange;
+}
+
+hr{
+    border-width: 10px;
+    border-style: groove;
+    border-radius: 5px;
+    border-color: gold;
+}
+
+h2,ol,li{
+    text-align: center;
+    font-size: 24px;
+    color: blueviolet;
+}
+
+h2{
+    font-size: 27px;
+}
