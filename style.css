@@ -5,7 +5,7 @@ body{
 
 h1{
     text-align: center;
-    font-size: 36px;
+    font-size: 70px;
     color: darkorange;
 }
 
@@ -18,10 +18,58 @@ hr{
 
 h2,ol,li{
     text-align: center;
-    font-size: 24px;
+    font-size: 25px;
     color: blueviolet;
 }
 
 h2{
     font-size: 27px;
+}
+
+.List{
+    display: block;
+    margin: 50px;
+    padding-right:   60px;
+}
+
+button{
+    text-align: center;
+    background: goldenrod;
+    border: thick 15px firebrick;
+    font-size: 20px;
+    padding: 15px;
+    
+    
+    
+
+}
+
+.List-lasagna{
+    padding: 0px auto;
+    display: inline-block;
+    border: ridge 8px gold;
+    list-style-type: none;
+  margin: 11px;
+  
+    
+}
+
+.List-pizza{
+    padding: 0px auto;
+    display: inline-block;
+    /*margin-left: 710px;*/
+    border: ridge 8px gold;
+    list-style-type: none;
+  margin: 11px;
+  padding: 0;
+}
+
+.List-pasta{
+    display: inline-block;
+   /* margin-left: 760px;*/
+    padding: 0 auto;
+    border: ridge 8px gold;
+    list-style-type: none;
+  margin: 11px;
+  padding: 0;
 }
